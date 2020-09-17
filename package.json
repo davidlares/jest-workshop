@@ -1,0 +1,17 @@
+{
+  "name": "test-with-jest",
+  "version": "1.0.0",
+  "description": "Testing with Jest",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "author": "David E Lares S <david.e.lares@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
